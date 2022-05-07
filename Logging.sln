@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ILoggerMiddleware", "ILogge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerFactoryMiddleware", "LoggerFactoryMiddleware\LoggerFactoryMiddleware.csproj", "{26E59573-2E85-4BB2-931C-1523ADFA12E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging_Configuration_and_Filtering", "Logging_Configuration_and_Filtering\Logging_Configuration_and_Filtering.csproj", "{FDF8EA3E-15FB-44FB-95D8-EC698C76B9A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logging_Configuration_and_Filtering", "Logging_Configuration_and_Filtering\Logging_Configuration_and_Filtering.csproj", "{FDF8EA3E-15FB-44FB-95D8-EC698C76B9A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingLoggingProvider", "CreatingLoggingProvider\CreatingLoggingProvider.csproj", "{99965748-EC86-49B7-B45B-E251758C0679}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FDF8EA3E-15FB-44FB-95D8-EC698C76B9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDF8EA3E-15FB-44FB-95D8-EC698C76B9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDF8EA3E-15FB-44FB-95D8-EC698C76B9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99965748-EC86-49B7-B45B-E251758C0679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99965748-EC86-49B7-B45B-E251758C0679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99965748-EC86-49B7-B45B-E251758C0679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99965748-EC86-49B7-B45B-E251758C0679}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

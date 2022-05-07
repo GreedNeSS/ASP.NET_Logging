@@ -1,0 +1,19 @@
+Now listening on: https://localhost:7059
+Now listening on: http://localhost:5059
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: F:\ASP.NET\Logging\CreatingLoggingProvider\
+Path: /; Time: 19:12:53
+Path: /; Time: 19:13:23
+Application is shutting down...
+Now listening on: https://localhost:7059
+Now listening on: http://localhost:5059
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: F:\ASP.NET\Logging\CreatingLoggingProvider\
+Now listening on: https://localhost:7059
+Now listening on: http://localhost:5059
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: F:\ASP.NET\Logging\CreatingLoggingProvider\
+Path: /; Time: 19:14:12
